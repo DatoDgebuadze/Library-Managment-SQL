@@ -1,6 +1,6 @@
 # Library-Managment-SQL
 
-Documentation for Library Management System SQL Code:
+##Documentation for Library Management System SQL Code:
 
 This SQL code is for a library management system that includes three tables: Book, Member, and Loan.
 
